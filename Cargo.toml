@@ -1,0 +1,9 @@
+[package]
+name = "learn_opengl_in_rust"
+version = "0.0.1"
+authors = [ "Juan Carlos Galan Hernandez <jcgalanh@gmail.com>" ]
+edition = "2018"
+
+[dependencies]
+gl = "0.13.0"
+glfw = "0.30.0"
