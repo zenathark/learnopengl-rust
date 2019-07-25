@@ -10,5 +10,8 @@ chap010101:
 chap010102:
 	cargo run 1 1 2
 
+chap010201:
+	cargo run 1 2 1
+
 
 # end
